@@ -1,15 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é João Victor, tenho 20 anos e estou estudando na área da programação, sou uma pessoa persistente e que faz questão de aprender o máximo prossível
+  Meu nome é João Victor, tenho 21 anos e estou estudando na área da programação, sou uma pessoa persistente e que faz questão de aprender o máximo prossível
 </p>
 
 <p align="left">
-  🦄 Linguagens: **PHP, Laravel, CodeIgniter, HTML, CSS, JS**
+  A maior parte do meu trabalho atual é de código fechado (closed-source), mas aqui você encontra meus experimentos e projetos de estudo
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Visual Studio Code, XAMPP, GitHub, Git**
+  🦄 Linguagens: **PHP, Laravel, CodeIgniter, SQL, HTML, CSS, JS**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Visual Studio Code, XAMPP, GitHub, Git, DBeaver**
 </p>
 
 <p align="left">
